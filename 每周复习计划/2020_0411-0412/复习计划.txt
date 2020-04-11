@@ -7,3 +7,11 @@ SourceTree在mac平台下的安装与使用超详尽教程 https://www.jianshu.c
 CADisplayLink  https://www.jianshu.com/p/626db598c7c3
 
 FLWeakProxy  https://www.jianshu.com/p/2b2aaa7d99b0
+
+macOS常用二进制工具  https://www.jianshu.com/p/e2e3775a0a86
+
+Shell脚本：Linux Shell脚本学习指南（超详细） http://c.biancheng.net/shell/
+
+Xcode 11.4  模拟器运行arm64的framework  即使做了处理也会报错  
+
+如何项目运行arm64时  其他的库二进制也只有arm64
