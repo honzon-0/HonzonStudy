@@ -1,0 +1,15 @@
+iOS  连续震动
+
+https://blog.n0texpecterr0r.cn/2019/01/14/【i-o】内存映射-mmap-函数的使用/
+
+https://www.dazhuanlan.com  大专栏
+
+https://www.jianshu.com/p/d259b24f5672 终端用shell读写plist文件
+
+https://www.jianshu.com/p/c15ca07249f8 关于项目中崩溃问题处理：Can't add self as subview
+
+https://huang.sh  黄 少君 Blockchian, Mobile and Payments
+
+https://www.jianshu.com/p/83b6e781eb51  手把手教你给一个iOS app配置多个环境变量
+
+https://www.jianshu.com/p/fd505b7900e1  Xcode 配置多种scheme完美使用（配合Pods）
